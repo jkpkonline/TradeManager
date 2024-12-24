@@ -1,0 +1,9 @@
+{
+    "strategy": "NiftyPriceReversal_3Min",
+    "subject": "supertrent 6",
+    "symbol": "NIFTY",
+    "close": 15000,
+    "transType": "buy",
+    "contractSize": 2,
+    "newPosition": 0
+}
